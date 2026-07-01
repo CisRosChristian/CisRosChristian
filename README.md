@@ -1,12 +1,14 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Mahdiye+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<h1>&nbsp;&nbsp;&nbsp;&nbsp;&lt;&gt;&nbsp;&nbsp;</h1>
+    
+<b class="hr"></b>
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
  </p>
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> **ABOUT ME**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> **About Me**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
