@@ -14,11 +14,11 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-I'm Cisneros Christian Ivan, and I'm currently following my own path in the game development scene. I'm specialized in game mechanics coding, where I'm always trying to give the best experience to the users, having in mind the different opportunities a project has to make the experience more enjoyable. Likewise, I'm open-minded about learning new languages and technologies in order to improve my knowledge and be able to enroll in different areas. That's why I'm always looking for new people to work with; no matter if it is in projects or something more complex, I appreciate any opportunity to learn from others and help each other to improve, sharing experiences, knowlñedge and even having the chance to meet more of each one and build up a community where we are always connected. 
+I'm Cisneros Christian Ivan, and I'm currently following my own path in the game development scene. I'm specialized in game mechanics coding, where I'm always trying to give the best experience to the users, having in mind the different opportunities a project has to make the experience more enjoyable. Likewise, I'm open-minded about learning new languages and technologies in order to improve my knowledge and be able to enroll in different areas. That's why I'm always looking for new people to work with; no matter if it is in projects or something more complex, I appreciate any opportunity to learn from others and help each other to improve, sharing experiences, knowledge and even having the chance to meet more of each one and build up a community where we are always connected. 
 
 <br>
 
-## <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" width ="25"><b> Skills</b>
+## <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" width ="50"><b> Projects</b>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
