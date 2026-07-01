@@ -18,6 +18,8 @@ I'm Cisneros Christian Ivan, and I'm currently following my own path in the game
 
 <br>
 
+## <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" width ="25"><b> Skills</b>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
@@ -65,7 +67,7 @@ I'm Cisneros Christian Ivan, and I'm currently following my own path in the game
 
 -----
 
-<h3 align="center" >Connect with me 🤝 </h3>
+<h3 align="center" >Contact info 🤝 </h3>
 
 <p align="center">
 
