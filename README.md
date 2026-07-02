@@ -1,10 +1,10 @@
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p align="center">
 
 <h1>Hola&nbsp;&nbsp;&nbsp;&nbsp;&lt;&gt;&nbsp;&nbsp;</h1>
     
-<b class="hr"></b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<br>
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
