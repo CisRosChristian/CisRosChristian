@@ -1,7 +1,3 @@
-<img width="498" height="374" alt="beat-unbeatable" src="https://github.com/user-attachments/assets/54fd33b3-bd1d-4a46-b6e7-747df093cdd3" />
-<img width="498" height="374" alt="beat-unbeatable" src="https://github.com/user-attachments/assets/101fa5fe-f3d1-4c5e-adde-c5b4e443cbe6" />
-<img width="498" height="374" alt="beat-unbeatable" src="https://github.com/user-attachments/assets/757ed70b-8679-42a6-b3e5-a16444772cbb" />
-
 <p align="center">
 
 <h1>Hola&nbsp;&nbsp;&nbsp;&nbsp;&lt;&gt;&nbsp;&nbsp;</h1>
@@ -21,8 +17,8 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 	
 </p>
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-<picture><img align="right" width="498" height="374" alt="beat-unbeatable" src="https://github.com/user-attachments/assets/cb7039f7-c424-4510-bd02-e1eadfae6237" /></picture>
+<!--<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>-->
+<picture><img align="right" width="300px" height="360px" alt="beat-unbeatable" src="https://github.com/user-attachments/assets/cb7039f7-c424-4510-bd02-e1eadfae6237" /></picture>
 
  I'm Cisneros Christian Ivan, and I'm currently following my own path in the game development scene. I'm specialized in game mechanics coding, where I'm always trying to give the best experience to the users, 	having in mind the different opportunities a project has to make the experience more enjoyable. Likewise, I'm open-minded about learning new languages and technologies in order to improve my knowledge and be 	able to enroll in different areas. That's why I'm always looking for new people to work with; no matter if it is in projects or something more complex, I appreciate any opportunity to learn from others and 		help each other to improve, sharing experiences, knowledge and even having the chance to meet more of each one and build up a community where we are always connected. 
  
