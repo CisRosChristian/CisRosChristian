@@ -8,6 +8,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
  </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> **About Me**
 
@@ -20,6 +21,7 @@
 I'm Cisneros Christian Ivan, and I'm currently following my own path in the game development scene. I'm specialized in game mechanics coding, where I'm always trying to give the best experience to the users, having in mind the different opportunities a project has to make the experience more enjoyable. Likewise, I'm open-minded about learning new languages and technologies in order to improve my knowledge and be able to enroll in different areas. That's why I'm always looking for new people to work with; no matter if it is in projects or something more complex, I appreciate any opportunity to learn from others and help each other to improve, sharing experiences, knowledge and even having the chance to meet more of each one and build up a community where we are always connected. 
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" width ="50"><b> Projects</b>
 
@@ -41,7 +43,7 @@ I'm Cisneros Christian Ivan, and I'm currently following my own path in the game
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Visual Studio"/>
 	<img src="https://skillicons.dev/icons?i=eclipse&perline=12"  width="40" height="40" alt="Eclipse"/>
 
-- **Front-End Development**:
+- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> **Front-End Development**:
 
    <img src="https://skillicons.dev/icons?i=angular&perline=12"  width="40" height="40" alt="Angular"/>	
    <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
@@ -50,11 +52,13 @@ I'm Cisneros Christian Ivan, and I'm currently following my own path in the game
  
 
 <br>
-</p>
 
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
