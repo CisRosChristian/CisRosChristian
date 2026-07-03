@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img width="250" height="220" alt="developer" src="https://github.com/user-attachments/assets/58c38dc6-96a1-44c5-b895-d2068a10d185" />
+<img width="240" height="220" alt="developer" src="https://github.com/user-attachments/assets/58c38dc6-96a1-44c5-b895-d2068a10d185" />
 <h3 align="center">Hey over there!, I'm <a href="https://freshidea.com/jonah/">Christian Ivan Cisneros</a> - also known as "WolfMexCoder" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
     
 <br>
