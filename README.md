@@ -76,7 +76,7 @@
  
 [<img src ="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" width="100px"/>](https://github.com/CisRosChristian)
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="90px"/>](mailto:ccisnerosr1500@alumno.ipn.mx?Subject=Interesado%20en%establecer%20contacto%20contigo)
-[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="105px"/>](https://www.linkedin.com/in/christian-cisneros-rosales-581173146/)
+[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="108px"/>](https://www.linkedin.com/in/christian-cisneros-rosales-581173146/)
 [<img src = "https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" width="90px"/>](https://cischristian.itch.io)
 
 
