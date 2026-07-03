@@ -37,7 +37,7 @@
 <div class="card" background="#11195E" border-radius= "12px" width="300px" overflow="hidden">
 	<img width="100%" height="200px" object-fit="cover" alt="football" src="https://github.com/user-attachments/assets/d5d844df-d511-4fb6-97da-9148e0f48b18" />
 	<h3>Football minigame</h3>
-	<p> I developed game mechanics, allowing the player take control of a ball and push away the enemies from his goal</p>
+	<p padding-bottom="20px"> I developed game mechanics, allowing the player take control of a ball and push away the enemies from his goal</p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
