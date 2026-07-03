@@ -1,5 +1,6 @@
 
 
+
 <p align="center">
 <img width="240" height="220" alt="developer" src="https://github.com/user-attachments/assets/58c38dc6-96a1-44c5-b895-d2068a10d185" />
 <h3 align="center">Hey over there!, I'm Christian Ivan Cisneros - you can call me Chris if you want <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
@@ -34,6 +35,7 @@
 
 <div class="card-container">
 <div class="card">
+	<img width="516" height="389" alt="football" src="https://github.com/user-attachments/assets/d5d844df-d511-4fb6-97da-9148e0f48b18" />
 	<h3>Football minigame</h3>
 	<p> I developed game mechanics, allowing the player take control of a ball and push away the enemies from his goal</p>
 </div>
