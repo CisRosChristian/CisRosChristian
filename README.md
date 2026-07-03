@@ -35,7 +35,7 @@
 
 <p align="center">
 <details>
-<summary> - <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px>  </picture>  **Languages**: </summary>
+- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px>  </picture>  **Languages**: 
 
     
      <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" alt="C#"/>
