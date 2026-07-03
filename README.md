@@ -34,7 +34,7 @@
 -----
 
 <div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
-<div class="card" background="#11195E" border-radius= "12px" width="300px" overflow="hidden">
+<div style="background: #11195E; border-radius: 12px; width: 300px; overflow: hidden; color: white;">
 	<img width="100%" height="200px" object-fit="cover" alt="football" src="https://github.com/user-attachments/assets/d5d844df-d511-4fb6-97da-9148e0f48b18" />
 	<h3 padding="0 16px">Football minigame</h3>
 	<p padding="0 16px" padding-bottom="20px"> I developed game mechanics, allowing the player take control of a ball and push away the enemies from his goal</p>
