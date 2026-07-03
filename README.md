@@ -15,11 +15,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> **About Me**
 <br>
 
- <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
-	
-</p>
+
 <!--<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>-->
 <picture><img align="right" width="280px" height="200px" alt="beat-unbeatable" src="https://github.com/user-attachments/assets/cb7039f7-c424-4510-bd02-e1eadfae6237" /></picture>
 
