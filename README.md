@@ -33,7 +33,7 @@
 
 -----
 
-<div class="card-container" display="flex" flex-wrap="wrap" gap="20px" justify-content="center">
+<div class="card-container" display="flex" flex-wrap="wrap" gap="25px" justify-content="center">
 <div class="card">
 	<img width="516" height="300" alt="football" src="https://github.com/user-attachments/assets/d5d844df-d511-4fb6-97da-9148e0f48b18" />
 	<h3>Football minigame</h3>
