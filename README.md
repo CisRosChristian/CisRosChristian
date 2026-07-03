@@ -75,7 +75,6 @@
 <p align = "center">
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" />](https://pr2tik1.github.io/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Pratikpkb) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](mailto:ccisnerosr1500@alumno.ipn.mx?Subject=Interesado%20en%establecer%20contacto%20contigo)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/christian-cisneros-rosales-581173146/)
 [<img src = "https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white">](https://cischristian.itch.io)
