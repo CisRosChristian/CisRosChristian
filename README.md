@@ -41,7 +41,7 @@
 	 <img src="https://skillicons.dev/icons?i=java&perline=12" width="40" height="40" alt="Java"/>
 	 <img src="https://skillicons.dev/icons?i=py&perline=12"  width="40" height="40"/>
 	
-- **Softwares and Tools**:
+- <picture><img src = "https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width= 20px></picture>**Softwares and Tools**:
 
 	<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="40" height="40" alt="Unity"/>
   	<img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
