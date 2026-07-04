@@ -53,15 +53,15 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            Arcade football game developed
+            I developed game mechanics,
         </tspan>
 
         <tspan x="30" dy="22">
-            in Unity where the player must
+            allowing the player take control of a ball
         </tspan>
 
         <tspan x="30" dy="22">
-            defend the goal.
+            and push away the enemies from his goal
         </tspan>
 
     </text>
