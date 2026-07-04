@@ -33,7 +33,7 @@
 
 -----
 
-<p align="center">
+<!--<p align="center">
   <img src="assets/cards/football.svg" width="300">
 <br>
   <a href="https://cischristian.itch.io/cisnerosfutbolgame">
@@ -47,7 +47,43 @@
   <a href="https://cischristian.itch.io/cisnerosjuegoglobo">
     🔗 View Project
   </a>
-</p>
+</p>-->
+
+<table>
+  <tr>
+    <td align="center">
+        <img src="assets/cards/football.svg" width="300">
+		<br>
+  		<a href="https://cischristian.itch.io/cisnerosfutbolgame">
+    		🔗 View Project
+  		</a>
+    </td>
+    <td align="center">
+       <img src="assets/cards/ballon.svg" width="300">
+		<br>
+  		<a href="https://cischristian.itch.io/cisnerosjuegoglobo">
+    		🔗 View Project
+  		</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+       <img src="assets/cards/farm.svg" width="300">
+		<br>
+  		<a href="https://cischristian.itch.io/juegodelapelota">
+    		🔗 View Project
+  		</a>
+    </td>
+    <td align="center">
+       <img src="assets/cards/dog.svg" width="300">
+		<br>
+  		<a href="https://cischristian.itch.io/juegodelapelota">
+    		🔗 View Project
+  		</a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
