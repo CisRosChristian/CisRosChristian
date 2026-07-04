@@ -41,7 +41,7 @@
         font-size="24"
         font-weight="700"
         fill="#11195E">
-        Football Minigame
+        Obstacles Minigame
     </text>
 
     <!-- Descripción -->
@@ -53,15 +53,15 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            I developed game mechanics,
+            I implemented visual and auditory aspects,
         </tspan>
 
         <tspan x="30" dy="22">
-            allowing the player take control of a ball
+            bringing a more imersive experience
         </tspan>
 
         <tspan x="30" dy="22">
-            and push away the enemies from his goal
+            when the player collides with an obstacle or collectable
         </tspan>
 
     </text>
