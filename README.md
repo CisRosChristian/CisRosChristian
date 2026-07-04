@@ -35,6 +35,7 @@
 
 <p align="center">
   <img src="assets/cards/football.svg" width="300">
+<br>
   <a href="https://cischristian.itch.io/cisnerosfutbolgame">
     🔗 View Project
   </a>
