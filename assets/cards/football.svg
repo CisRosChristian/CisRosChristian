@@ -86,26 +86,9 @@
         C#
     </text>
 
-    <rect x="150" y="335" width="36" height="28" rx="14" fill="#E8EEFF"/>
-    <text x="168" y="353" text-anchor="middle"
-          font-family="Segoe UI"
-          font-size="13"
-          font-weight="600"
-          fill="#11195E">
-        AI
-    </text>
-
-    <rect x="196" y="335" width="60" height="28" rx="14" fill="#E8EEFF"/>
-    <text x="226" y="353" text-anchor="middle"
-          font-family="Segoe UI"
-          font-size="13"
-          font-weight="600"
-          fill="#11195E">
-        Physics
-    </text>
-
     <!-- Botón -->
 
+    <a href="https://cischristian.itch.io/juegodelapelota" target="_blank">
     <rect
         x="30"
         y="380"
@@ -122,9 +105,10 @@
         font-size="15"
         font-weight="600"
         fill="white">
-
+        
         View Project →
 
     </text>
+    </a>
 
 </svg>
