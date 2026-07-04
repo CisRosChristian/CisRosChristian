@@ -44,7 +44,7 @@
 <p align="center">
   <img src="assets/cards/ballon.svg" width="300">
 <br>
-  <a href="https://cischristian.itch.io/cisnerosfutbolgame">
+  <a href="https://cischristian.itch.io/cisnerosjuegogloboe">
     🔗 View Project
   </a>
 </p>
