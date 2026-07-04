@@ -49,7 +49,7 @@
   </a>
 </p>-->
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
         <img src="assets/cards/football.svg" width="300">
@@ -65,23 +65,25 @@
     		🔗 View Project
   		</a>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center">
+	  <td align="center">
        <img src="assets/cards/farm.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/juegodelapelota">
     		🔗 View Project
   		</a>
     </td>
-    <td align="center">
+	  <td align="center">
        <img src="assets/cards/dog.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/juegodelapelota">
     		🔗 View Project
   		</a>
     </td>
+  </tr>
+
+  <tr>
+    
+    
   </tr>
 </table>
 
