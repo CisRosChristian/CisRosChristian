@@ -32,13 +32,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width ="35"><b> Projects</b>
 
 -----
-<p align="center">
-  <img src="assets/cards/football.svg" width="360">
-</p>
-
-<p align="center">
- 
-</p>
 
 <p align="center">
   <img src="assets/cards/football.svg" width="300">
