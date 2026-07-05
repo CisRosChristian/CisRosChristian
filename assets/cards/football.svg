@@ -31,7 +31,7 @@
         width="340"
         height="190"
         clip-path="url(#imageClip)"
-        preserveAspectRatio="xMidYMid slice"/>
+        preserveAspectRatio="xMidYMid meet"/>
 
     <!-- Título -->
     <text
