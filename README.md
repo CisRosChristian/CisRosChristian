@@ -8,7 +8,9 @@
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Game+Developer;Web+Developer;Freelancer;C#%20|%20Unity%20|%20Java%20|%20Github;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
 
+
 -----
+
 <h3 align="center">Hey over there!, I'm Christian Ivan Cisneros - you can call me Chris if you want <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
     
 <br>
