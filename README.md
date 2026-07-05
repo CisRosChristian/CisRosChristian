@@ -3,6 +3,7 @@
 
 <p align="center">
 <img width="240" height="220" alt="developer" src="https://github.com/user-attachments/assets/58c38dc6-96a1-44c5-b895-d2068a10d185" />
+-----
 <h3 align="center">Hey over there!, I'm Christian Ivan Cisneros - you can call me Chris if you want <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
     
 <br>
@@ -65,14 +66,7 @@
     		🔗 View Project
   		</a>
     </td>
-	  <td align="center">
-       <img src="assets/cards/farm.svg" width="300">
-		<br>
-  		<a href="https://cischristian.itch.io/juegodelapelota">
-    		🔗 View Project
-  		</a>
-    </td>
-	  <td align="center">
+	<td align="center">
        <img src="assets/cards/dog.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/juegodelapelota">
@@ -132,7 +126,7 @@
 [<img src ="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" width="100px"/>](https://github.com/CisRosChristian)
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="90px"/>](mailto:ccisnerosr1500@alumno.ipn.mx?Subject=Interesado%20en%establecer%20contacto%20contigo)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="108px"/>](https://www.linkedin.com/in/christian-cisneros-rosales-581173146/)
-[<img src = "https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" width="90px"/>](https://cischristian.itch.io)
+[<img src = "https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" width="90px"/>](https://itch.io/profile/cischristian)
 
 
 </p>
