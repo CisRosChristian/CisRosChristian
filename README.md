@@ -5,7 +5,7 @@
 <img width="240" height="220" alt="developer" src="https://github.com/user-attachments/assets/58c38dc6-96a1-44c5-b895-d2068a10d185" />
 <br>
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Game+Developer;Web+Developer;Freelancer;C#%20|%20Unity%20|%20Java%20|%20Github;Always%20learning%20new%20things&center=true&width=380&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Game+Developer;Web+Developer;C'#'%20|%20Unity%20|%20Java%20|%20Github;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
 
 
