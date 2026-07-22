@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-
-<a href="./assets/documents/CisnerosRosalesChristianCV.pdf">
+<!--./assets/documents/CisnerosRosalesChristianCV.pdf-->
+<a href="https://raw.githubusercontent.com/CisRosChristian/CisRosChristian/main/assets/documents/CisnerosRosalesChristianCC.pdf">
 <img src="https://img.shields.io/badge/📄-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
