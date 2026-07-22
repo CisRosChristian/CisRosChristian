@@ -34,7 +34,9 @@
 	I'm Cisneros Christian Ivan, and I'm currently following my own path in the game development scene. I'm specialized in game mechanics coding, where I'm always trying to give the best experience to the users, 	having in mind the different opportunities a project has to make the experience more enjoyable. Likewise, I'm open-minded about learning new languages and technologies in order to improve my knowledge and be 	able to enroll in different areas. That's why I'm always looking for new people to work with; no matter if it is in a work enviroment or a competition, I appreciate any opportunity to learn from others and 		help each other to improve, sharing experiences, knowledge and meet more of each one and build up a community where we are always connected. 
 </p>
  
- 
+-----
+
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> **Soft Skills** 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
