@@ -15,8 +15,8 @@
 
 <p align="center">
 
-<a href="./assets/Christian_Ivan_Cisneros_Resume.pdf">
-<img src="https://img.shields.io/badge/📄-Download%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+<a href="./assets/documents/CisnerosRosalesChristianCV.pdf">
+<img src="https://img.shields.io/badge/📄-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
 </p>
