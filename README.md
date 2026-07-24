@@ -36,13 +36,13 @@
 I have a set of soft skills that allow me to give my best performance no matter if it's in school, a project, or a professional enviroment. The next skills are the ones that more define me as a person and a professional. 
 	<ul>
 		<li>
-				Team Work
+		<pre>Team Work</pre>
 		</li>
 		<li>
-				Effective Communication
+			Effective Communication
 		</li>
 		<li>
-				Personal Responsibility
+			Personal Responsibility
 		</li>
 		<li>
 			Persistence
