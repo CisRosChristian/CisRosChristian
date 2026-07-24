@@ -79,10 +79,28 @@ I have a set of soft skills that allow me to give my best performance no matter 
 	<tr>
 		<td align="justify">
 			<p>Generation Colombia, Mexico City / Mexico </p>
-			<p><b>Junio Unity Developer</b></p>
+			<p><b>Junior Unity Developer</b></p>
 		</td>
 		<td align="justify">
 			<p>05/2026 - Nowadays</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="justify">
+			<p>Superior School of Computing (ESCOM), Mexico City / Mexico </p>
+			<p><b>Computer Systems Engineering</b></p>
+		</td>
+		<td align="justify">
+			<p>08/2018 - 05/2023</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="justify">
+			<p>Center of scientific and technological studies no 8, Mexico City / Mexico </p>
+			<p><b>Computer Systems Technician</b></p>
+		</td>
+		<td align="justify">
+			<p>08/2015 - 06/2018</p>
 		</td>
 	</tr>
 </table>
