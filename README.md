@@ -67,7 +67,27 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 -----
 
-
+<table align="center">
+	
+</table>
+	<tr>
+		<td align="center">
+			<p>Grade of studies</p>
+		</td>
+		<td align="center">
+			<p>End date</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="justify">
+			<p>Generation Colombia, Mexico City / Mexico </p>
+			<p><b>Junio Unity Developer</b></p>
+		</td>
+		<td align="justify">
+			<p>05/2026 - Nowadays</p>
+		</td>
+	</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
