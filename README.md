@@ -29,7 +29,7 @@
  
 -----
 
-<picture><img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 45px></picture> **Soft Skills** 
+<picture><img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 35px></picture> **Soft Skills** 
 
 <p align="justify">
 <picture><img align="left" width="330px" height="290px" alt="lofi-working" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /></picture>
