@@ -13,14 +13,7 @@
 <br>
 </p>
 
-<p align="center">
 <!--./assets/documents/CisnerosRosalesChristianCV.pdf-->
-<a href="https://raw.githubusercontent.com/CisRosChristian/CisRosChristian/main/assets/documents/CisnerosRosalesChristianCV.pdf">
-<img src="https://img.shields.io/badge/📄-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-</a>
-
-</p>
-
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 	
@@ -39,7 +32,7 @@
 <picture><img src = "https://private-user-images.githubusercontent.com/74038190/243199541-bba47def-6b97-4489-9433-fbff5b588031.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ4NTY4NTIsIm5iZiI6MTc4NDg1NjU1MiwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDEtYmJhNDdkZWYtNmI5Ny00NDg5LTk0MzMtZmJmZjViNTg4MDMxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI0VDAxMjkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhMTc0MjE1MGIwNTE2ZjcwNTg5ZWJhMjczYjY5ZGViYzA0YjY0OWI4OGYzYjg2Y2RjNzI2NzA5MTBiNTI1NzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.MoCCE9nYZTQW_qXb2vJRSC7FDGk0DKzxEg84Jv_5Pfg" width = 45px></picture> **Soft Skills** 
 
 <p align="justify">
-<picture><img align="left" width="280px" height="200px" alt="lofi-working" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /></picture>
+<picture><img align="left" width="320px" height="280px" alt="lofi-working" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /></picture>
 	I have a set of soft skills that allow me to give my best performance no matter if it's in school, a project, or a professional enviroment. The next skills are the ones that more define me as a person and a professional. 
 	<ul>
 		<li>
@@ -74,6 +67,10 @@
 <p align="center">
 
 <h3 align="center">If you want to get a closer look about what kind of person I am and what I'm capable of, you can get my resume below <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+<a href="https://raw.githubusercontent.com/CisRosChristian/CisRosChristian/main/assets/documents/CisnerosRosalesChristianCV.pdf">
+<img src="https://img.shields.io/badge/📄-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
 	
 </p>
 
