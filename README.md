@@ -32,17 +32,17 @@
 <picture><img src = "https://private-user-images.githubusercontent.com/74038190/243199541-bba47def-6b97-4489-9433-fbff5b588031.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ4NTY4NTIsIm5iZiI6MTc4NDg1NjU1MiwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDEtYmJhNDdkZWYtNmI5Ny00NDg5LTk0MzMtZmJmZjViNTg4MDMxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzI0VDAxMjkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhMTc0MjE1MGIwNTE2ZjcwNTg5ZWJhMjczYjY5ZGViYzA0YjY0OWI4OGYzYjg2Y2RjNzI2NzA5MTBiNTI1NzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.MoCCE9nYZTQW_qXb2vJRSC7FDGk0DKzxEg84Jv_5Pfg" width = 45px></picture> **Soft Skills** 
 
 <p align="justify">
-<picture><img align="left" width="320px" height="280px" alt="lofi-working" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /></picture>
+<picture><img align="left" width="330px" height="290px" alt="lofi-working" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /></picture>
 	I have a set of soft skills that allow me to give my best performance no matter if it's in school, a project, or a professional enviroment. The next skills are the ones that more define me as a person and a professional. 
 	<ul>
 		<li>
-			Team Work
+				Team Work
 		</li>
 		<li>
-			Effective Communication
+				Effective Communication
 		</li>
 		<li>
-			Personal Responsibility
+				Personal Responsibility
 		</li>
 		<li>
 			Persistence
