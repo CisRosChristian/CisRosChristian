@@ -68,8 +68,6 @@ I have a set of soft skills that allow me to give my best performance no matter 
 -----
 
 <table align="center">
-	
-</table>
 	<tr>
 		<td align="center">
 			<p>Grade of studies</p>
