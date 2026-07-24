@@ -27,9 +27,11 @@
 	I'm Cisneros Christian Ivan, and I'm currently following my own path in the game development scene. I'm specialized in game mechanics coding, where I'm always trying to give the best experience to the users, 	having in mind the different opportunities a project has to make the experience more enjoyable. Likewise, I'm open-minded about learning new languages and technologies in order to improve my knowledge and be 	able to enroll in different areas. That's why I'm always looking for new people to work with; no matter if it is in a work enviroment or a competition, I appreciate any opportunity to learn from others and 		help each other to improve, sharing experiences, knowledge and meet more of each one and build up a community where we are always connected. 
 </p>
  
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <picture><img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 35px></picture> **Soft Skills** 
+
+-----
 
 <p align="justify">
 <picture><img align="left" width="330px" height="290px" alt="lofi-working" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /></picture>
@@ -57,6 +59,10 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 <picture><img align="left" width="120px" height="60px" alt="lofi-working" src = "https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width = 35px></picture> 
 <h3>Background</h3>
+
+-----
+
+<picture><img src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width = 35px></picture> **Education** 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
