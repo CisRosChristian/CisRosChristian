@@ -35,29 +35,13 @@
 <picture><img align="left" width="330px" height="290px" alt="lofi-working" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /></picture>
 I have a set of soft skills that allow me to give my best performance no matter if it's in school, a project, or a professional enviroment. The next skills are the ones that more define me as a person and a professional.
 	<pre>Team Work</pre>
-	<ul>
-		<li>
-			Effective Communication
-		</li>
-		<li>
-			Personal Responsibility
-		</li>
-		<li>
-			Persistence
-		</li>
-		<li>
-			Proactive
-		</li>
-		<li>
-			Empathetic
-		</li>
-		<li>
-			Creative
-		</li>
-		<li>
-			Open-minded
-		</li>
-	</ul>
+	<pre>Effective Communication</pre>
+	<pre>Personal Responsibility</pre>
+	<pre>Persistence</pre>
+	<pre>Empathetic</pre>
+	<pre>Proactive</pre>
+	<pre>Creative</pre>
+	<pre>Open-minded</pre>
 </p>
 
 -----
