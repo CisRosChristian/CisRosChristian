@@ -59,7 +59,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 <picture><img align="left" width="120px" height="60px" alt="lofi-working" src = "https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width = 35px></picture> 
 <h3>Background</h3>
-
+<br>
 -----
 
 <picture><img src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width = 35px></picture> **Education** 
