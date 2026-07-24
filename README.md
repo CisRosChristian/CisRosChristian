@@ -50,7 +50,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 <p align="center">
 	<a href="https://raw.githubusercontent.com/CisRosChristian/CisRosChristian/main/assets/documents/CisnerosRosalesChristianCV.pdf">
-<img src="https://img.shields.io/badge/📄-Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
