@@ -111,6 +111,41 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 -----
 
+<table align="center">
+	<tr>
+		<td align="center">
+			<p>Business</p>
+		</td>
+		<td align="center">
+			<p>End date</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="justify">
+			<p>Generation Colombia, Mexico City / Mexico </p>
+			<p><b>IAM Junior Specialist</b></p>
+			<p>
+				<ul>
+					<li>I brought technical support to the customers, resolved their doubts, and documented the solutions of incidents</li>
+					<li>I've implemented a web application for employee management, improving the client workflow by 10%</li>
+				</ul>
+			</p>
+		</td>
+		<td align="justify">
+			<p>08/2023 - 12/2024</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="justify">
+			<p>Superior School of Computing (ESCOM), Mexico City / Mexico </p>
+			<p><b>Computer Systems Engineering</b></p>
+		</td>
+		<td align="justify">
+			<p>08/2018 - 05/2023</p>
+		</td>
+	</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
