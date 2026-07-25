@@ -7,10 +7,6 @@
             <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.15"/>
         </filter>
 
-        <!-- Bordes redondeados para la imagen -->
-        <clipPath id="imageClip">
-            <rect x="0" y="0" width="360" height="190" rx="18"/>
-        </clipPath>
     </defs>
 
     <!-- Tarjeta -->
