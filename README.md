@@ -63,7 +63,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 -----
 
-<picture><img src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width = 35px></picture> **Education**
+<picture><img src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width = 35px></picture> **Education**
 
 -----
 
