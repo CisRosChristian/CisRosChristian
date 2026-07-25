@@ -122,12 +122,12 @@ I have a set of soft skills that allow me to give my best performance no matter 
 	</tr>
 	<tr>
 		<td align="justify">
-			<p>Generation Colombia, Mexico City / Mexico </p>
+			<p>M3Security, Mexico City / Mexico </p>
 			<p><b>IAM Junior Specialist</b></p>
 			<p>
 				<ul>
-					<li>I brought technical support to the customers, resolved their doubts, and documented the solutions of incidents</li>
-					<li>I've implemented a web application for employee management, improving the client workflow by 10%</li>
+					<li>I brought technical support to the customers, resolved their doubts, and documented the solutions of incidents.</li>
+					<li>I've implemented a web application for employee management, improving the client workflow by 10%.</li>
 				</ul>
 			</p>
 		</td>
@@ -137,11 +137,17 @@ I have a set of soft skills that allow me to give my best performance no matter 
 	</tr>
 	<tr>
 		<td align="justify">
-			<p>Superior School of Computing (ESCOM), Mexico City / Mexico </p>
-			<p><b>Computer Systems Engineering</b></p>
+			<p>Federal Commission for the Protection against Sanitary Risk, Mexico City / Mexico </p>
+			<p><b>Web Developer</b></p>
+			<p>
+				<ul>
+					<li>I designed the user interfaces and generated a new section on their web page, allowing them ti have better control over supplies from providers.</li>
+					<li>I developed the functionality of the section for the management of providers, increasing by 30% their control over the supplies that come from providers.</li>
+				</ul>
+			</p>
 		</td>
 		<td align="justify">
-			<p>08/2018 - 05/2023</p>
+			<p>11/2022 - 04/2023</p>
 		</td>
 	</tr>
 </table>
