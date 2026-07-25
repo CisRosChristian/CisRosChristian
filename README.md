@@ -56,10 +56,9 @@ I have a set of soft skills that allow me to give my best performance no matter 
 <img src="https://img.shields.io/badge/Download_Resume-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white">
 </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img width="1536" height="480" alt="Copilot_20260724_200318" src="https://github.com/user-attachments/assets/db7acec1-29e7-450c-81c4-e76c5f072aae" />
 <br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <picture><img src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width = 35px></picture> **Education**
 
 -----
