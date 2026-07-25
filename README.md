@@ -178,7 +178,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 <table align="center">
   <tr>
     <td align="center">
-		<img width="300" height="200" alt="football" src="https://github.com/user-attachments/assets/b472a5fe-e2d0-4663-929c-49a9b73d696f" />
+		<img width="150" height="50" alt="football" src="https://github.com/user-attachments/assets/b472a5fe-e2d0-4663-929c-49a9b73d696f" />
         <img src="assets/cards/football.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/cisnerosfutbolgame">
