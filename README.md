@@ -107,7 +107,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 -----
 
-<picture><img src = "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width = 35px></picture> **Work experience**
+<picture><img src = "https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width = 35px></picture> **Work experience**
 
 -----
 
