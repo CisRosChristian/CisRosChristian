@@ -19,16 +19,6 @@
         fill="white"
         filter="url(#shadow)"/>
 
-    <!-- Imagen -->
-    <image
-        href="https://raw.githubusercontent.com/CisRosChristian/CisRosChristian/main/assets/screenshots/football.png"
-        x="10"
-        y="10"
-        width="340"
-        height="190"
-        clip-path="url(#imageClip)"
-        preserveAspectRatio="xMidYMid meet"/>
-
     <!-- Título -->
     <text
         x="30"
