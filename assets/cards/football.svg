@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <svg width="360"
-     height="500"
-     viewBox="0 0 360 500"
+     height="610"
+     viewBox="0 0 360 610"
      fill="none"
      xmlns="http://www.w3.org/2000/svg">
 
@@ -17,7 +18,7 @@
                 flood-opacity="0.15"/>
         </filter>
 
-        <!-- Rounded image -->
+        <!-- Rounded image corners -->
         <clipPath id="imageClip">
             <rect
                 x="10"
@@ -29,15 +30,17 @@
 
     </defs>
 
+
     <!-- Card -->
     <rect
         x="10"
         y="10"
         width="340"
-        height="480"
+        height="590"
         rx="18"
         fill="white"
         filter="url(#shadow)"/>
+
 
     <!-- Image -->
     <image
@@ -48,6 +51,7 @@
         height="190"
         clip-path="url(#imageClip)"
         preserveAspectRatio="xMidYMid slice"/>
+
 
     <!-- Title -->
     <text
@@ -60,7 +64,8 @@
         Football Minigame
     </text>
 
-    <!-- Description -->
+
+    <!-- First paragraph -->
     <text
         x="30"
         y="278"
@@ -76,7 +81,8 @@
             from enemy balls trying to score.
         </tspan>
 
-        <tspan x="30" dy="30">
+
+        <tspan x="30" dy="28">
             I developed the core gameplay mechanics,
         </tspan>
 
@@ -90,15 +96,16 @@
 
     </text>
 
+
     <!-- Divider -->
-    <line
-        x1="30"
-        y1="405"
-        x2="330"
-        y2="405"
-        stroke="#3B82F6"
-        stroke-width="2"
-        stroke-linecap="round"/>
+    <rect
+        x="30"
+        y="400"
+        width="300"
+        height="2"
+        rx="1"
+        fill="#2563EB"/>
+
 
     <!-- Second paragraph -->
     <text
@@ -112,24 +119,30 @@
             From this project,
         </tspan>
 
-        <tspan x="30" dy="24">
+        <tspan x="30" dy="22">
             I learnt some basics of game design,
         </tspan>
 
         <tspan x="30" dy="22">
-            such as the use of coroutines and spawners
+            such as the use of coroutines
         </tspan>
 
         <tspan x="30" dy="22">
-            with levels and cooldowns for power-ups.
+            and spawners with levels
+        </tspan>
+
+        <tspan x="30" dy="22">
+            and cooldowns for power-ups.
         </tspan>
 
     </text>
 
+
     <!-- Tags -->
+
     <rect
         x="30"
-        y="448"
+        y="550"
         width="58"
         height="28"
         rx="14"
@@ -137,7 +150,7 @@
 
     <text
         x="59"
-        y="466"
+        y="568"
         text-anchor="middle"
         font-family="Segoe UI"
         font-size="13"
@@ -146,9 +159,10 @@
         Unity
     </text>
 
+
     <rect
         x="98"
-        y="448"
+        y="550"
         width="42"
         height="28"
         rx="14"
@@ -156,7 +170,7 @@
 
     <text
         x="119"
-        y="466"
+        y="568"
         text-anchor="middle"
         font-family="Segoe UI"
         font-size="13"
@@ -164,5 +178,6 @@
         fill="#11195E">
         C#
     </text>
+
 
 </svg>
