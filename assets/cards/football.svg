@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="360"
-     height="450"
-     viewBox="0 0 360 450"
+     height="500"
+     viewBox="0 0 360 500"
      fill="none"
      xmlns="http://www.w3.org/2000/svg">
 
@@ -17,7 +17,7 @@
                 flood-opacity="0.15"/>
         </filter>
 
-        <!-- Rounded corners for image -->
+        <!-- Rounded image -->
         <clipPath id="imageClip">
             <rect
                 x="10"
@@ -34,7 +34,7 @@
         x="10"
         y="10"
         width="340"
-        height="430"
+        height="480"
         rx="18"
         fill="white"
         filter="url(#shadow)"/>
@@ -88,29 +88,48 @@
             and push enemies away from their goal.
         </tspan>
 
-       <tspan x="30" dy="40">
-           From this project,
+    </text>
+
+    <!-- Divider -->
+    <line
+        x1="30"
+        y1="405"
+        x2="330"
+        y2="405"
+        stroke="#3B82F6"
+        stroke-width="2"
+        stroke-linecap="round"/>
+
+    <!-- Second paragraph -->
+    <text
+        x="30"
+        y="430"
+        font-family="Segoe UI, Arial"
+        font-size="15"
+        fill="#555555">
+
+        <tspan x="30" dy="0">
+            From this project,
         </tspan>
 
-        <tspan x="30" dy="32">
+        <tspan x="30" dy="24">
             I learnt some basics of game design,
         </tspan>
 
-        <tspan x="30" dy="32">
-            such as the use of courutines and spawner with
+        <tspan x="30" dy="22">
+            such as the use of coroutines and spawners
         </tspan>
 
-        <tspan x="30" dy="32">
-            levels and cooldowns for power ups.
-        </tspan>         
+        <tspan x="30" dy="22">
+            with levels and cooldowns for power-ups.
+        </tspan>
 
     </text>
 
     <!-- Tags -->
-
     <rect
         x="30"
-        y="375"
+        y="448"
         width="58"
         height="28"
         rx="14"
@@ -118,7 +137,7 @@
 
     <text
         x="59"
-        y="393"
+        y="466"
         text-anchor="middle"
         font-family="Segoe UI"
         font-size="13"
@@ -129,7 +148,7 @@
 
     <rect
         x="98"
-        y="375"
+        y="448"
         width="42"
         height="28"
         rx="14"
@@ -137,7 +156,7 @@
 
     <text
         x="119"
-        y="393"
+        y="466"
         text-anchor="middle"
         font-family="Segoe UI"
         font-size="13"
