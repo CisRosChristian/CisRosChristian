@@ -119,19 +119,19 @@
         </tspan>
 
         <tspan x="30" dy="22">
-            an audio source and audio clips to have multiple
+            an audio source and audio clips to have
         </tspan>
 
         <tspan x="30" dy="22">
-             sounds, but also I had some fun putting a 
+            multiple sounds, but also I had some fun
         </tspan>
 
         <tspan x="30" dy="22">
-             prefab inside of a empty object to prevent
+             putting a prefab inside of a empty object
         </tspan>
 
         <tspan x="30" dy="22">
-           him to spin wrong.
+           preventing him if spinning wrongly.
         </tspan>
 
     </text>
