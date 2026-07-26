@@ -64,7 +64,7 @@
         Football Minigame
     </text>
 
-
+     
     <!-- First paragraph -->
     <text
         x="30"
@@ -81,7 +81,15 @@
             from enemy balls trying to score.
         </tspan>
 
-
+     <!-- Divider -->
+    <rect
+        x="30"
+        dy="25"
+        width="300"
+        height="2"
+        rx="1"
+        fill="#2563EB"/>
+     
         <tspan x="30" dy="28">
             I developed the core gameplay mechanics,
         </tspan>
