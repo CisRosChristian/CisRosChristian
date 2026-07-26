@@ -82,15 +82,15 @@
         </tspan>
      
         <tspan x="30" dy="28">
-            I developed the core gameplay mechanics,
+            I developed the mechanics related with potion
         </tspan>
 
         <tspan x="30" dy="22">
-            allowing the player to control the ball
+            spawning, frequency and locations, but also
         </tspan>
 
         <tspan x="30" dy="22">
-            and push enemies away from their goal.
+            all the possile mixtures and the effect of eac one.
         </tspan>
 
     </text>
