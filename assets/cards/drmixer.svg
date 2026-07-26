@@ -115,23 +115,23 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            From this project,
+            I put a challenge myself, using different arrays
         </tspan>
 
         <tspan x="30" dy="22">
-            I learnt some basics of game design,
+            to control the appearance rate of each potion 
         </tspan>
 
         <tspan x="30" dy="22">
-            such as the use of coroutines
+            and the places where can spawn, but also
         </tspan>
 
         <tspan x="30" dy="22">
-            and spawners with levels
+            I had to design all the conditions to set
         </tspan>
 
         <tspan x="30" dy="22">
-            and cooldowns for power-ups.
+            the power up related with the mixture.
         </tspan>
 
     </text>
