@@ -115,10 +115,6 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            From this project,
-        </tspan>
-
-        <tspan x="30" dy="22">
             I got the enough knowledge to be able of using
         </tspan>
 
@@ -131,7 +127,11 @@
         </tspan>
 
         <tspan x="30" dy="22">
-            correctly the colliders to prevent the activation of events.
+            correctly the colliders to prevent the non-desired 
+        </tspan>
+
+        <tspan x="30" dy="22">
+            activation of some events.
         </tspan>
 
     </text>
