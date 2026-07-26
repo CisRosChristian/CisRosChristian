@@ -42,23 +42,23 @@
             Play as a football ball,    
         </tspan>
 
-        <tspan x="30" dy="0">
+        <tspan x="30" dy="10">
             while you protect your goal    
         </tspan>
 
-        <tspan x="30" dy="0">
+        <tspan x="30" dy="20">
             from other balls that try to get in.    
         </tspan>
         
-        <tspan x="30" dy="22">
+        <tspan x="30" dy="30">
             I developed game mechanics,
         </tspan>
 
-        <tspan x="30" dy="22">
+        <tspan x="30" dy="40">
             allowing the player take control of a ball
         </tspan>
 
-        <tspan x="30" dy="22">
+        <tspan x="30" dy="50">
             and push away the enemies from his goal
         </tspan>
 
