@@ -88,6 +88,22 @@
             and push enemies away from their goal.
         </tspan>
 
+       <tspan x="30" dy="40">
+           From this project,
+        </tspan>
+
+        <tspan x="30" dy="32">
+            I learnt some basics of game design,
+        </tspan>
+
+        <tspan x="30" dy="32">
+            such as the use of courutines and spawner with
+        </tspan>
+
+        <tspan x="30" dy="32">
+            levels and cooldowns for power ups.
+        </tspan>         
+
     </text>
 
     <!-- Tags -->
