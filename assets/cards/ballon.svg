@@ -115,23 +115,23 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            From this project,
+            From this project, I learnt how to use properly
         </tspan>
 
         <tspan x="30" dy="22">
-            I learnt how to use properly an audio source
+            an audio source and audio clips to have multiple
         </tspan>
 
         <tspan x="30" dy="22">
-            and audio clips to have multiple sounds, but
+             sounds, but also I had some fun putting a 
         </tspan>
 
         <tspan x="30" dy="22">
-            also I had some fun putting a prefab inside of
+             prefab inside of a empty object to prevent
         </tspan>
 
         <tspan x="30" dy="22">
-          a empty object to prevent him to spin wrong.
+           him to spin wrong.
         </tspan>
 
     </text>
