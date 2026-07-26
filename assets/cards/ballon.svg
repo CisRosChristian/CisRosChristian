@@ -127,11 +127,11 @@
         </tspan>
 
         <tspan x="30" dy="22">
-            also I had some fun putting an object inside a
+            also I had some fun putting a prefab inside of
         </tspan>
 
         <tspan x="30" dy="22">
-            empty object to prevent him to spin wrong.
+          a empty object to prevent him to spin wrong.
         </tspan>
 
     </text>
