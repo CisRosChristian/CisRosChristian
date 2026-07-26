@@ -177,6 +177,13 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 <table align="center">
   <tr>
+	<td align="center">
+        <img src="assets/cards/drmixer.svg" width="300">
+		<br>
+  		<a href="https://eduardo-riba.itch.io/mixer-doctor">
+    		🔗 View Project
+  		</a>
+    </td>
     <td align="center">
         <img src="assets/cards/football.svg" width="300">
 		<br>
