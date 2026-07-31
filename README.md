@@ -37,7 +37,7 @@
 
 <p align="justify">
 <picture><img align="left" width="330px" height="290px" alt="lofi-working" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /></picture>
-I have a set of soft skills that allow me to give my best performance no matter if it's in school, a project, or a professional enviroment. The next skills are the ones that more define me as a person and a professional.
+I have a set of soft skills that allow me to give my best performance no matter if it's in school, a project, or a professional environment. The next skills are the ones that more define me as a person and a professional.
 	<pre>*Team Work                *Persistence  *Creative</pre>
 	<pre>*Effective Communication  *Empathetic   *Proactive</pre>
 	<pre>*Personal Responsibility  *Open-minded  *Eye for detail</pre>
@@ -48,7 +48,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 
 <p align="center">
 
-<h3 align="center">If you want to get a closer look about what kind of person I am and what I'm capable of, you can get my resume below <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">If you want to get a closer look at what kind of person I am and what I'm capable of, you can get my resume below <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 	
 </p>
 
