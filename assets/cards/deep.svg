@@ -61,7 +61,7 @@
         font-size="24"
         font-weight="700"
         fill="#11195E">
-        Dr Mixer
+        Into the Deep
     </text>
 
      
@@ -74,23 +74,23 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            Help Mr Mixer avoid monsters and mix potions
+          Control a submarine to defend yourself
         </tspan>
 
         <tspan x="30" dy="22">
-            to counterattack, but beware what you mix.
+            and resist until the help comes.
         </tspan>
      
         <tspan x="30" dy="28">
-            I developed the mechanics related with potion
+            I developed the mechanics related with enemy
         </tspan>
 
         <tspan x="30" dy="22">
-            spawning, frequency and locations, but also
+            spawning, features to make it more challenging
         </tspan>
 
         <tspan x="30" dy="22">
-            all possile mixtures and the effect of each one.
+            and management of most interactions incuding win and lose conditions.
         </tspan>
 
     </text>
