@@ -96,7 +96,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 	</tr>
 	<tr>
 		<td align="justify">
-			<p>Center of scientific and technological studies no 8, Mexico City / Mexico </p>
+			<p>Center of scientific and technological studies no. 8, Mexico City / Mexico </p>
 			<p><b>Computer Systems Technician</b></p>
 		</td>
 		<td align="justify">
