@@ -180,7 +180,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 	<td align="center">
         <img src="assets/cards/deep.svg" width="500">
 		<br>
-		[<img src = "https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" width="90px"/>]([https://itch.io/profile/cischristian](https://cischristian.itch.io/into-the-deep))
+		[<img src = "https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" width="90px"/>](https://cischristian.itch.io/into-the-deep)
   		<!--<a href="https://cischristian.itch.io/into-the-deep">
     		🔗 View Project
   		</a>-->
