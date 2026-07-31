@@ -178,7 +178,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 <table align="center">
   <tr>
 	<td align="center">
-        <img src="assets/cards/deep.svg" width="500">
+        <img src="assets/cards/deep.svg" width="800">
 		<br>
   		<a href="https://cischristian.itch.io/into-the-deep">
     		🔗 View Project
