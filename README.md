@@ -185,7 +185,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
   		</a>
     </td>  
 	<td align="center">
-        <img src="assets/cards/drmixer.svg" width="500">
+        <img src="assets/cards/drmixer.svg" width="800">
 		<br>
   		<a href="https://eduardo-riba.itch.io/mixer-doctor">
     		🔗 View Project
