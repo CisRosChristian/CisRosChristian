@@ -190,8 +190,10 @@ I have a set of soft skills that allow me to give my best performance no matter 
   		<a href="https://eduardo-riba.itch.io/mixer-doctor">
     		🔗 View Project
   		</a>
-    </td>
-    <td align="center">
+	</td>
+  </tr>
+  <tr>
+	 <td align="center">
         <img src="assets/cards/football.svg" width="1000">
 		<br>
   		<a href="https://cischristian.itch.io/cisnerosfutbolgame">
@@ -205,7 +207,9 @@ I have a set of soft skills that allow me to give my best performance no matter 
     		🔗 View Project
   		</a>
     </td>
-	<td align="center">
+  </tr>
+  <tr>
+	  <td align="center">
        <img src="assets/cards/dog.svg" width="1000">
 		<br>
   		<a href="https://cischristian.itch.io/juegodelapelota">
@@ -213,10 +217,6 @@ I have a set of soft skills that allow me to give my best performance no matter 
   		</a>
     </td>
   </tr>
-
-  <tr>
-    
-    
   </tr>
 </table>
 
