@@ -141,7 +141,7 @@ I have a set of soft skills that allow me to give my best performance no matter 
 			<p><b>Web Developer</b></p>
 			<p>
 				<ul>
-					<li>I designed the user interfaces and generated a new section on their web page, allowing them ti have better control over supplies from providers.</li>
+					<li>I designed the user interfaces and generated a new section on their web page, allowing them to have better control over supplies from providers.</li>
 					<li>I developed the functionality of the section for the management of providers, increasing by 30% their control over the supplies that come from providers.</li>
 				</ul>
 			</p>
