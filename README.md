@@ -178,45 +178,42 @@ I have a set of soft skills that allow me to give my best performance no matter 
 <table align="center">
   <tr>
 	<td align="center">
-        <img src="assets/cards/deep.svg" width="200">
+        <img src="assets/cards/deep.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/into-the-deep">
     		🔗 View Project
   		</a>
     </td>  
 	<td align="center">
-        <img src="assets/cards/drmixer.svg" width="200">
+        <img src="assets/cards/drmixer.svg" width="300">
 		<br>
   		<a href="https://eduardo-riba.itch.io/mixer-doctor">
     		🔗 View Project
   		</a>
 	</td>
-  </tr>
-  <tr>
-	 <td align="center">
-        <img src="assets/cards/football.svg" width="200">
+	<td align="center">
+        <img src="assets/cards/football.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/cisnerosfutbolgame">
     		🔗 View Project
   		</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-       <img src="assets/cards/ballon.svg" width="200">
+       <img src="assets/cards/ballon.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/cisnerosjuegoglobo">
     		🔗 View Project
   		</a>
     </td>
-  </tr>
-  <tr>
-	  <td align="center">
-       <img src="assets/cards/dog.svg" width="200">
+	<td align="center">
+       <img src="assets/cards/dog.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/juegodelapelota">
     		🔗 View Project
   		</a>
     </td>
-  </tr>
   </tr>
 </table>
 
