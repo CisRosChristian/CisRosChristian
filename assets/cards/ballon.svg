@@ -74,7 +74,7 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            Play as a ballon, pressing space in order
+            Play as a balloon, pressing space in order
         </tspan>
 
         <tspan x="30" dy="22">
@@ -86,7 +86,7 @@
         </tspan>
 
         <tspan x="30" dy="22">
-            bringing a more imersive experience when the
+            bringing a more immersive experience when the
         </tspan>
 
         <tspan x="30" dy="22">
@@ -115,23 +115,23 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            From this project, I learnt how to use properly
+            From this project, I learned how to use it 
         </tspan>
 
         <tspan x="30" dy="22">
-            an audio source and audio clips to have
+            properly an audio source and audio clips to
         </tspan>
 
         <tspan x="30" dy="22">
-            multiple sounds, but also I had some fun
+            have multiple sounds, but also I had some fun
         </tspan>
 
         <tspan x="30" dy="22">
-             putting a prefab inside of an empty object
+             putting a prefab inside an empty object
         </tspan>
 
         <tspan x="30" dy="22">
-           preventing him if spinning wrongly.
+           preventing him from spinning wrongly.
         </tspan>
 
     </text>
