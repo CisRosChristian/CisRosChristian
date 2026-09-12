@@ -74,23 +74,23 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-          Control a submarine to defend yourself
+          Help the main character to discover
         </tspan>
 
         <tspan x="30" dy="22">
-            and resist until the help arrives.
+            an old mansion and survive the stalker.
         </tspan>
      
         <tspan x="30" dy="28">
-            I developed mechanics related to enemy
+            I developed mechanics related to movement
         </tspan>
 
         <tspan x="30" dy="22">
-            spawning and management of most game
+            mechanics and powerups and gimmicks for some
         </tspan>
 
         <tspan x="30" dy="22">
-            interactions, including win and lose conditions.
+            rooms, also developed the shoot action.
         </tspan>
 
     </text>
@@ -115,23 +115,23 @@
         fill="#555555">
 
         <tspan x="30" dy="0">
-            I don't have enough experience with singletons
+            This project helped me to put me on test,
         </tspan>
 
         <tspan x="30" dy="22">
-            or OOP applied to a Unity project, but thanks  
+            using all my knowledge for game mechanics and   
         </tspan>
 
         <tspan x="30" dy="22">
-            to a partner, I got my first experience using
+            applying the basics of OOP for the clasess and 
         </tspan>
 
         <tspan x="30" dy="22">
-            singletons, inheritance and polymorphism.
+            mechanics, some like inheritance and polymorphism
         </tspan>
 
         <tspan x="30" dy="22">
-            I'll do more to improve my skills in these areas.
+            I'll do more to keep improving my coding skills.
         </tspan>
 
     </text>
