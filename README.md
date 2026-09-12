@@ -178,6 +178,13 @@ I have a set of soft skills that allow me to give my best performance no matter 
 <table align="center">
   <tr>
 	<td align="center">
+        <img src="assets/cards/tarot.svg" width="300">
+		<br>
+  		<a href="https://cischristian.itch.io/eyes-of-tarot">
+    		🔗 View Project
+  		</a>
+    </td>  
+	<td align="center">
         <img src="assets/cards/deep.svg" width="300">
 		<br>
   		<a href="https://cischristian.itch.io/into-the-deep">
@@ -191,6 +198,8 @@ I have a set of soft skills that allow me to give my best performance no matter 
     		🔗 View Project
   		</a>
 	</td>
+  </tr>
+  <tr>
 	<td align="center">
         <img src="assets/cards/football.svg" width="300">
 		<br>
@@ -198,8 +207,6 @@ I have a set of soft skills that allow me to give my best performance no matter 
     		🔗 View Project
   		</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
        <img src="assets/cards/ballon.svg" width="300">
 		<br>
